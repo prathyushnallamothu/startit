@@ -1,7 +1,7 @@
 # StartIt 🚀
 
 <p align="center">
-  <img src="https://github.com/prathyushnallamothu/startit/raw/main/docs/logo.png" alt="StartIt Logo" width="200"/>
+  <img src="https://github.com/prathyushnallamothu/startit/raw/master/logo.png" alt="StartIt Logo" width="200"/>
 </p>
 
 <p align="center">
